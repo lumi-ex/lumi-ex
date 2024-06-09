@@ -25,7 +25,7 @@
   <a href="twitch.tv/lumi-ex" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank" />
   </a>
-  <a href="https://steamcommunity.com/id/lumi/" target="_blank">
+  <a href="https://steamcommunity.com/id/lumi_ex/" target="_blank">
      <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank" />
   </a>
 </div>
